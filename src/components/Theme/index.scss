@@ -1,0 +1,15 @@
+.theme {
+  cursor: pointer;
+  position: absolute;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  border: none;
+  top: 1.5rem;
+  left: 1.5rem;
+  background: linear-gradient(168.55deg, #bd71c0 0%, #3a243c 100%);
+
+  &_light {
+    background: rgba(36, 37, 48, 1);
+  }
+}
